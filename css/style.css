@@ -1,0 +1,14 @@
+.warna-bg{
+	/*background: #00a170;*/
+	background: linear-gradient(to right, rgb(0, 161, 112), rgba(54,209,220, .92));
+}
+
+.warna-lg{
+	background: linear-gradient(to bottom, #00ccff 0%, #66ffcc 100%);
+}
+
+.jumbotron-bg{
+	background-size: cover;
+	background: url(../img/pexels.jpg);
+	background-size: 300px;
+}
